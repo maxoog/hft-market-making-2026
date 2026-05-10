@@ -1,5 +1,7 @@
 # CMF HFT Market-Making Backtester
 
+Python project repository link - https://github.com/maxoog/hft-market-making-2026-python
+
 ## Directory structure
 
 ```
